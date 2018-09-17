@@ -18,20 +18,20 @@ Have been tested with 3.0.2.0 only, but should work with other OC 3.x versions.
 
 ## How to install
 * To begin, make backup, really!
-* Open OpenCart Admin Panel
-* Extensions > Installer > [Upload]: open the file total-order-discount-plus.ocmod.zip
-* See the "Success: You have modified extensions!" message
-* Extensions > Modifications > [Refresh]
-* Extensions > Extensions > Order Totals > Total Order Discount+ > [Install]
-* Extensions > Modifications > [Refresh]
-* Go to Dashboard > [Developer Settings] > Theme [Refresh]
-* Go to Dashboard > [Developer Settings] > SASS [Refresh]
+* Open Admin Panel.
+* Extensions > Installer > [Upload]: open the file total-order-discount-plus.ocmod.zip.
+* See the "Success: You have modified extensions!" message.
+* Extensions > Modifications > [Refresh].
+* Extensions > Extensions > Order Totals > Total Order Discount+ > [Install].
+* Extensions > Modifications > [Refresh].
+* Go to Dashboard > [Developer Settings] > Theme [Refresh].
+* Go to Dashboard > [Developer Settings] > SASS [Refresh].
 
 ## How to configure
-* Admin > Extensions > Order Totals > [underr] Total Order Discount+ - Install
-* Admin > Extensions > Order Totals > [underr] Total Order Discount+ - Edit
-    * Set the desired parameters
-* Admin > Extensions > Order Totals
+* Admin > Extensions > Order Totals > [underr] Total Order Discount+ - Install.
+* Admin > Extensions > Order Totals > [underr] Total Order Discount+ - Edit.
+    * Set the desired parameters.
+* Admin > Extensions > Order Totals.
     * Set the correct sort order values for the modules:
         1. All modules that are subject to a discount must be located before the Sub-Total module.
         2. The Sub-Total module.
@@ -39,14 +39,14 @@ Have been tested with 3.0.2.0 only, but should work with other OC 3.x versions.
         4. The Total module.
 
 ## How to uninstall
-* Make backup
-* OpenCart Admin -> Extensions menu > Installer
-* Extensions > Install History: find the total-order-discount-plus.ocmod.zip file and click [Uninstall]
-* Extensions > Modifications > [Refresh]
-* Go to Dashboard > [Developer Settings] > Theme [Refresh]
-* Go to Dashboard > [Developer Settings] > SASS [Refresh]
+* Make backup.
+* Admin -> Extensions menu > Installer.
+* Extensions > Install History: find the total-order-discount-plus.ocmod.zip file and click [Uninstall].
+* Extensions > Modifications > [Refresh].
+* Go to Dashboard > [Developer Settings] > Theme [Refresh].
+* Go to Dashboard > [Developer Settings] > SASS [Refresh].
 
 ## Links
-* [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=)
+* [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35103)
 * [underr.space](https://underr.space/notes/projects/project-011.html)
 
